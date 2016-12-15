@@ -20,7 +20,7 @@ A simple CSS &amp; JS Clock. A Simple `js` and `css` project.
 - [ ] Add link to style documentation
 - [x] Add license
 - [ ] Write Case Study
-- [x] Add ~background~~ design (affinity) - added simple gradient
+- [x] Add ~~background~~ design (affinity) - added simple gradient
 - [x] Add pictures to readme
 
 
