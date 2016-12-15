@@ -1,0 +1,2 @@
+"use strict";window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector(".hand--hour");var t=document.querySelector(".hand--second");var r=document.querySelector(".hand--min");function n(){var n=new Date;var a=n.getSeconds();var o=n.getMinutes();var d=n.getHours();var s=a/60*360+90;var u=o/60*360+90;var v=d/12*360+90;t.style.transform="rotate("+s+"deg)";r.style.transform="rotate("+u+"deg)";e.style.transform="rotate("+v+"deg)"}setInterval(n,1e3)});
+//# sourceMappingURL=map/clock.js.map
