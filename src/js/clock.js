@@ -13,9 +13,9 @@ const minsHand    = document.querySelector('.hand--min');
 * @function setDate
 * @global
 * @const now             {object} - new Date Object
-* @const seconds         {object} - seconds of new Date
-* @const mins            {object} - mins of new Date
-* @const hours           {object} - hour of new Date
+* @const seconds         {number} - seconds of new Date
+* @const mins            {number} - mins of new Date
+* @const hours           {number} - hour of new Date
 * @const secondsDegrees  {number} - seconds in degrees
 * @const minsDegrees     {number} - mins in degrees
 * @const hoursDegrees    {number} - mins in degrees
