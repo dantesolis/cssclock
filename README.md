@@ -8,7 +8,7 @@ A simple CSS &amp; JS Clock. A Simple `js` and `css` project.
 
 ### Install
  Clone on your local machine and do a npm install.
- Here is the [demo](http://codepen.io/intercoder/pen/0a7aa8be6c89bf0d5ac133b173dd35f6?editors=1100) on codepen. You can take a look at [cssclock](https://cssclock.site)
+ Here is the [demo](http://codepen.io/intercoder/pen/0a7aa8be6c89bf0d5ac133b173dd35f6?editors=1100) on codepen. You can take a look at [cssclock](http://cssclock.site)
 
 ### TODO
 - [x] Clean codepen demo - add link
