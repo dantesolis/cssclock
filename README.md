@@ -14,7 +14,7 @@ A simple CSS &amp; JS Clock. A Simple `js` and `css` project.
 - [x] Clean codepen demo - add link
 - [x] Publish to github pages
 - [x] Add gulp task
-- [ ] Import fonts
+- [x] ~~Import~~ fonts - just went to use them from Google
 - [x] Add domain
 - [ ] Add link to github repo
 - [ ] Add link to style documentation
